@@ -1,0 +1,115 @@
+{
+  "group": {
+    "name": "Renkai Squad",
+    "description": "Official Community Hub - Connected, Creative & Collaborative",
+    "whatsappLink": "https://chat.whatsapp.com/L9UDSCjrEEn0RHqCLLMkUR?mode=gi_t",
+    "created": "2026-04-11",
+    "totalMembers": 1100
+  },
+  "members": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "role": "Founder",
+      "bio": "Community Leader & Organizer",
+      "avatar": "",
+      "social": {
+        "whatsapp": "",
+        "instagram": "",
+        "twitter": ""
+      }
+    },
+    {
+      "id": 2,
+      "name": "Member 1",
+      "role": "Active Member",
+      "bio": "Content Creator & Designer",
+      "avatar": "",
+      "social": {
+        "whatsapp": "",
+        "instagram": "",
+        "twitter": ""
+      }
+    },
+    {
+      "id": 3,
+      "name": "Member 2",
+      "role": "Active Member",
+      "bio": "Developer & Tech Enthusiast",
+      "avatar": "",
+      "social": {
+        "whatsapp": "",
+        "instagram": "",
+        "twitter": ""
+      }
+    },
+    {
+      "id": 4,
+      "name": "Member 3",
+      "role": "Active Member",
+      "bio": "Artist & Creative Mind",
+      "avatar": "",
+      "social": {
+        "whatsapp": "",
+        "instagram": "",
+        "twitter": ""
+      }
+    },
+    {
+      "id": 5,
+      "name": "Member 4",
+      "role": "Active Member",
+      "bio": "Marketer & Strategist",
+      "avatar": "",
+      "social": {
+        "whatsapp": "",
+        "instagram": "",
+        "twitter": ""
+      }
+    },
+    {
+      "id": 6,
+      "name": "Member 5",
+      "role": "Active Member",
+      "bio": "Musician & Audio Producer",
+      "avatar": "",
+      "social": {
+        "whatsapp": "",
+        "instagram": "",
+        "twitter": ""
+      }
+    }
+  ],
+  "features": [
+    {
+      "title": "Active Community",
+      "icon": "comments",
+      "description": "Engage in daily conversations, share ideas, and connect with like-minded individuals."
+    },
+    {
+      "title": "Quick Collaboration",
+      "icon": "bolt",
+      "description": "Find team members for projects, get feedback, and collaborate in real-time."
+    },
+    {
+      "title": "Exclusive Content",
+      "icon": "gem",
+      "description": "Get access to exclusive resources, tips, and insights shared by community members."
+    },
+    {
+      "title": "Global Network",
+      "icon": "globe",
+      "description": "Connect with people from different backgrounds and expand your network."
+    },
+    {
+      "title": "Growth Opportunities",
+      "icon": "chart-line",
+      "description": "Discover new opportunities for personal and professional growth."
+    },
+    {
+      "title": "Safe Environment",
+      "icon": "shield-alt",
+      "description": "A moderated and respectful community where everyone feels welcome."
+    }
+  ]
+}
